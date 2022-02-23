@@ -32,7 +32,6 @@ This project are created for using as template for others repository.
     - [PREREQUISITES](#prerequisites)
     - [INSTALATION](#instalation)
     - [RUN](#run)
-4. [USAGE](#usage) 
 3. [CONTRIBUTING](#contributing)
 4. [LICENSE](#license)
 5. [CONTACT](#contact)
