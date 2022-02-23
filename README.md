@@ -12,7 +12,7 @@ This project are created for using as template for others repository.
 
 
 <!-- INFO BADGES -->
-[![GitHub](https://img.shields.io/github/forks/PaoloProdossimoLopes/swift-alert-factorycolor=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-alert-factory)
+[![GitHub](https://img.shields.io/github/forks/PaoloProdossimoLopes/swift-alert-factory?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-alert-factory)
 [![GitHub](https://img.shields.io/github/stars/PaoloProdossimoLopes/swift-alert-factory?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-alert-factory)
 [![GitHub](https://img.shields.io/github/issues/PaoloProdossimoLopes/swift-alert-factory?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-alert-factory/issues)
 [![GitHub](https://img.shields.io/github/issues-pr/PaoloProdossimoLopes/swift-alert-factory?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-alert-factory/pulls)
